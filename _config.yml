@@ -1018,3 +1018,5 @@ vendors:
 css: css
 js: js
 images: images
+
+theme: jekyll-theme-cayman
